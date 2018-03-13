@@ -39,3 +39,14 @@ export APP_TOKEN='YOUR_APP_TOKEN'
 
 App tokens can be obtained [here](https://dev.socrata.com/foundry/data.iowa.gov/spsw-4jax).
 
+## Getting Iowa precinct level shape file
+
+https://sos.iowa.gov/shapefiles/Statewide%20Precinct%20Layer/
+
+https://upload.wikimedia.org/wikipedia/commons/5/5f/USA_Counties_with_FIPS_and_names.svg
+
+
+
+![Alt text](./choropleth_map.svg)
+<img src="./img/choropleth_map.svg">
+
