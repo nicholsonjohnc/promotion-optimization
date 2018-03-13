@@ -48,5 +48,5 @@ https://upload.wikimedia.org/wikipedia/commons/5/5f/USA_Counties_with_FIPS_and_n
 
 
 ![Alt text](./choropleth_map.svg)
-<img src="./choropleth_map.svg">
+<img src="https://github.com/nicholsonjohnc/promotion-optimization/raw/master/choropleth_map.svg?sanitize=true">
 
