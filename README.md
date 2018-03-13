@@ -17,6 +17,11 @@ Demand modeling
 Price optimization
 * Optimize price to maximize profit.
 
+
+## Exploratory data analysis
+
+<img src="./img/choropleth_map.png">
+
 ## Top 10 Stores by Transaction Count.
 |   | store | name                                 | transactions | 
 |---|-------|--------------------------------------|--------------| 
@@ -47,6 +52,6 @@ https://upload.wikimedia.org/wikipedia/commons/5/5f/USA_Counties_with_FIPS_and_n
 
 
 
-![Alt text](./img/choropleth_map.svg)
-<img src="./img/choropleth_map.png">
+
+
 
