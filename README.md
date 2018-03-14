@@ -20,7 +20,7 @@ Price optimization
 
 ## Exploratory data analysis
 
-<img src="./img/choropleth_map.png">
+<img src="./img/liquor_sales_choropleth_map.png">
 
 ## Top 10 Stores by Transaction Count.
 |   | store | name                                 | transactions | 
