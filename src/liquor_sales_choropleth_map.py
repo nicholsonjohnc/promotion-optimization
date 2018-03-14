@@ -11,8 +11,8 @@ m.choropleth(
     data=county_data,
     columns=['fips', 'county_consumption'],
     key_on='feature.id',
-    fill_color='PuBu',
-    fill_opacity=0.7,
+    fill_color='PuRd',
+    fill_opacity=0.9,
     line_opacity=0.2,
     legend_name='Sales (Millions of Liters)',
 )
