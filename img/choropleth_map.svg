@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <html>
  <body>
-  <svg width="555.221" height="351.667" viewBox="245 80 138.8 87.92" id="svg9559" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg">
+  <svg height="351.667" id="svg9559" version="1.0" width="555.221" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg">
    <metadata id="metadata3671">
     <rdf:rdf>
      <cc:work rdf:about="">
@@ -2756,695 +2756,497 @@
       Kalawao, HI
      </title>
     </path>
-    <path d="M 342.307,124.797 L 343.379,124.739 L 346.589,124.648 L 347.895,125.032 L 347.746,126.437 L 347.246,127.109 L 346.674,127.776 L 344.853,128.678 L 344.077,128.876 L 343.748,128.885 L 343.609,128.867 L 342.414,127.056 L 342.307,124.797" id="19163" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#DD1C77">
+    <path d="M 342.307,124.797 L 343.379,124.739 L 346.589,124.648 L 347.895,125.032 L 347.746,126.437 L 347.246,127.109 L 346.674,127.776 L 344.853,128.678 L 344.077,128.876 L 343.748,128.885 L 343.609,128.867 L 342.414,127.056 L 342.307,124.797" id="19163">
      <title id="t548">
       Scott, IA
      </title>
     </path>
-    <path d="M 342.127,121.399 L 349.211,120.997 L 349.315,122.346 L 348.571,124.274 L 347.895,125.032 L 346.589,124.648 L 343.379,124.739 L 342.307,124.797 L 342.185,122.535 L 342.127,121.399" id="19045" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#DD1C77">
+    <path d="M 342.127,121.399 L 349.211,120.997 L 349.315,122.346 L 348.571,124.274 L 347.895,125.032 L 346.589,124.648 L 343.379,124.739 L 342.307,124.797 L 342.185,122.535 L 342.127,121.399" id="19045">
      <title id="t549">
       Clinton, IA
      </title>
     </path>
-    <path d="M 287.902,103.673 L 289.262,103.682 L 292.998,103.695 L 294.788,103.7 L 294.783,106.837 L 288.063,106.787 L 287.902,103.673" id="19119" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#DF65B0">
+    <path d="M 287.902,103.673 L 289.262,103.682 L 292.998,103.695 L 294.788,103.7 L 294.783,106.837 L 288.063,106.787 L 287.902,103.673" id="19119">
      <title id="t550">
       Lyon, IA
      </title>
     </path>
-    <path d="M 288.063,106.787 L 294.783,106.837 L 294.815,111.349 L 288.564,111.339 L 289.217,109.085 L 289.366,108.688 L 289.393,108.599 L 289.032,107.301 L 288.943,107.259 L 288.271,107.256 L 288.063,106.787" id="19167" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#DF65B0">
+    <path d="M 288.063,106.787 L 294.783,106.837 L 294.815,111.349 L 288.564,111.339 L 289.217,109.085 L 289.366,108.688 L 289.393,108.599 L 289.032,107.301 L 288.943,107.259 L 288.271,107.256 L 288.063,106.787" id="19167">
      <title id="t551">
       Sioux, IA
      </title>
     </path>
-    <path d="M 294.815,111.349 L 294.815,115.864 L 288.951,115.85 L 288.609,114.949 L 288.365,114.557 L 288.054,114.268 L 287.807,114.079 L 288.185,112.349 L 288.564,111.339 L 294.815,111.349" id="19149" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#DF65B0">
+    <path d="M 294.815,111.349 L 294.815,115.864 L 288.951,115.85 L 288.609,114.949 L 288.365,114.557 L 288.054,114.268 L 287.807,114.079 L 288.185,112.349 L 288.564,111.339 L 294.815,111.349" id="19149">
      <title id="t552">
       Plymouth, IA
      </title>
     </path>
-    <path d="M 299.255,111.325 L 299.286,115.837 L 295.938,115.856 L 294.815,115.864 L 294.815,111.349 L 299.255,111.325" id="19035" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#DF65B0">
+    <path d="M 299.255,111.325 L 299.286,115.837 L 295.938,115.856 L 294.815,115.864 L 294.815,111.349 L 299.255,111.325" id="19035">
      <title id="t553">
       Cherokee, IA
      </title>
     </path>
-    <path d="M 294.783,106.837 L 299.227,106.85 L 299.255,111.325 L 294.815,111.349 L 294.783,106.837" id="19141" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#DF65B0">
+    <path d="M 294.783,106.837 L 299.227,106.85 L 299.255,111.325 L 294.815,111.349 L 294.783,106.837" id="19141">
      <title id="t554">
       O'Brien, IA
      </title>
     </path>
-    <path d="M 298.588,103.677 L 299.210,103.677 L 299.227,106.85 L 294.783,106.837 L 294.788,103.7 L 298.588,103.677" id="19143" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#DF65B0">
+    <path d="M 298.588,103.677 L 299.210,103.677 L 299.227,106.85 L 294.783,106.837 L 294.788,103.7 L 298.588,103.677" id="19143">
      <title id="t555">
       Osceola, IA
      </title>
     </path>
-    <path d="M 299.210,103.677 L 303.622,103.637 L 303.671,106.809 L 299.227,106.85 L 299.210,103.677" id="19059" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#DD1C77">
+    <path d="M 299.210,103.677 L 303.622,103.637 L 303.671,106.809 L 299.227,106.85 L 299.210,103.677" id="19059">
      <title id="t556">
       Dickinson, IA
      </title>
     </path>
-    <path d="M 299.227,106.85 L 303.671,106.809 L 303.721,111.285 L 299.255,111.325 L 299.227,106.85" id="19041" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#DF65B0">
+    <path d="M 299.227,106.85 L 303.671,106.809 L 303.721,111.285 L 299.255,111.325 L 299.227,106.85" id="19041">
      <title id="t557">
       Clay, IA
      </title>
     </path>
-    <path d="M 303.721,111.285 L 303.766,115.814 L 299.286,115.837 L 299.255,111.325 L 303.721,111.285" id="19021" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#DF65B0">
+    <path d="M 303.721,111.285 L 303.766,115.814 L 299.286,115.837 L 299.255,111.325 L 303.721,111.285" id="19021">
      <title id="t558">
       Buena Vista, IA
      </title>
     </path>
-    <path d="M 303.721,111.285 L 308.156,111.245 L 308.210,114.656 L 308.233,115.769 L 303.766,115.814 L 303.721,111.285" id="19151" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#DF65B0">
+    <path d="M 303.721,111.285 L 308.156,111.245 L 308.210,114.656 L 308.233,115.769 L 303.766,115.814 L 303.721,111.285" id="19151">
      <title id="t559">
       Pocahontas, IA
      </title>
     </path>
-    <path d="M 308.079,106.751 L 308.156,111.245 L 303.721,111.285 L 303.671,106.809 L 308.079,106.751" id="19147" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#DF65B0">
+    <path d="M 308.079,106.751 L 308.156,111.245 L 303.721,111.285 L 303.671,106.809 L 308.079,106.751" id="19147">
      <title id="t560">
       Palo Alto, IA
      </title>
     </path>
-    <path d="M 308.030,103.573 L 308.079,106.751 L 303.671,106.809 L 303.622,103.637 L 304.190,103.628 L 308.030,103.573" id="19063" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#DF65B0">
+    <path d="M 308.030,103.573 L 308.079,106.751 L 303.671,106.809 L 303.622,103.637 L 304.190,103.628 L 308.030,103.573" id="19063">
      <title id="t561">
       Emmet, IA
      </title>
     </path>
-    <path d="M 312.438,103.501 L 312.510,106.665 L 312.595,111.168 L 308.156,111.245 L 308.079,106.751 L 308.030,103.573 L 309.856,103.542 L 312.438,103.501" id="19109" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#DF65B0">
+    <path d="M 312.438,103.501 L 312.510,106.665 L 312.595,111.168 L 308.156,111.245 L 308.079,106.751 L 308.030,103.573 L 309.856,103.542 L 312.438,103.501" id="19109">
      <title id="t562">
       Kossuth, IA
      </title>
     </path>
-    <path d="M 308.156,111.245 L 312.595,111.168 L 312.668,114.575 L 308.210,114.656 L 308.156,111.245" id="19091" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#DF65B0">
+    <path d="M 308.156,111.245 L 312.595,111.168 L 312.668,114.575 L 308.210,114.656 L 308.156,111.245" id="19091">
      <title id="t563">
       Humboldt, IA
      </title>
     </path>
-    <path d="M 294.815,115.864 L 295.938,115.856 L 295.942,116.794 L 296.312,116.977 L 296.622,116.977 L 296.622,120.393 L 290.100,120.345 L 290.218,119.547 L 289.929,119.006 L 289.817,117.522 L 289.884,117.343 L 289.880,117.144 L 289.840,116.995 L 289.740,116.856 L 289.614,116.807 L 289.290,116.784 L 288.951,115.85 L 294.815,115.864" id="19193" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#DD1C77">
+    <path d="M 294.815,115.864 L 295.938,115.856 L 295.942,116.794 L 296.312,116.977 L 296.622,116.977 L 296.622,120.393 L 290.100,120.345 L 290.218,119.547 L 289.929,119.006 L 289.817,117.522 L 289.884,117.343 L 289.880,117.144 L 289.840,116.995 L 289.740,116.856 L 289.614,116.807 L 289.290,116.784 L 288.951,115.85 L 294.815,115.864" id="19193">
      <title id="t564">
       Woodbury, IA
      </title>
     </path>
-    <path d="M 299.286,115.837 L 299.295,116.964 L 299.912,116.959 L 299.926,120.386 L 296.622,120.393 L 296.622,116.977 L 296.312,116.977 L 295.942,116.794 L 295.938,115.856 L 299.286,115.837" id="19093" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#DF65B0">
+    <path d="M 299.286,115.837 L 299.295,116.964 L 299.912,116.959 L 299.926,120.386 L 296.622,120.393 L 296.622,116.977 L 296.312,116.977 L 295.942,116.794 L 295.938,115.856 L 299.286,115.837" id="19093">
      <title id="t565">
       Ida, IA
      </title>
     </path>
-    <path d="M 299.286,115.837 L 303.766,115.814 L 303.775,116.929 L 304.325,116.929 L 304.352,120.358 L 302.139,120.372 L 299.926,120.386 L 299.912,116.959 L 299.295,116.964 L 299.286,115.837" id="19161" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#DF65B0">
+    <path d="M 299.286,115.837 L 303.766,115.814 L 303.775,116.929 L 304.325,116.929 L 304.352,120.358 L 302.139,120.372 L 299.926,120.386 L 299.912,116.959 L 299.295,116.964 L 299.286,115.837" id="19161">
      <title id="t566">
       Sac, IA
      </title>
     </path>
-    <path d="M 303.766,115.814 L 308.233,115.769 L 308.247,116.878 L 308.679,116.874 L 308.738,120.3 L 306.538,120.331 L 304.352,120.358 L 304.325,116.929 L 303.775,116.929 L 303.766,115.814" id="19025" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#DF65B0">
+    <path d="M 303.766,115.814 L 308.233,115.769 L 308.247,116.878 L 308.679,116.874 L 308.738,120.3 L 306.538,120.331 L 304.352,120.358 L 304.325,116.929 L 303.775,116.929 L 303.766,115.814" id="19025">
      <title id="t567">
       Calhoun, IA
      </title>
     </path>
-    <path d="M 312.668,114.575 L 312.713,116.811 L 313.092,116.807 L 313.168,120.2 L 310.951,120.251 L 308.738,120.3 L 308.679,116.874 L 308.247,116.878 L 308.233,115.769 L 308.210,114.656 L 312.668,114.575" id="19187" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#DD1C77">
+    <path d="M 312.668,114.575 L 312.713,116.811 L 313.092,116.807 L 313.168,120.2 L 310.951,120.251 L 308.738,120.3 L 308.679,116.874 L 308.247,116.878 L 308.233,115.769 L 308.210,114.656 L 312.668,114.575" id="19187">
      <title id="t568">
       Webster, IA
      </title>
     </path>
-    <path d="M 308.738,120.3 L 310.951,120.251 L 311.045,124.748 L 309.931,124.769 L 306.601,124.829 L 306.538,120.331 L 308.738,120.3" id="19073" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#DF65B0">
+    <path d="M 308.738,120.3 L 310.951,120.251 L 311.045,124.748 L 309.931,124.769 L 306.601,124.829 L 306.538,120.331 L 308.738,120.3" id="19073">
      <title id="t569">
       Greene, IA
      </title>
     </path>
-    <path d="M 304.352,120.358 L 306.538,120.331 L 306.601,124.829 L 305.492,124.847 L 302.166,124.874 L 302.139,120.372 L 304.352,120.358" id="19027" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#DF65B0">
+    <path d="M 304.352,120.358 L 306.538,120.331 L 306.601,124.829 L 305.492,124.847 L 302.166,124.874 L 302.139,120.372 L 304.352,120.358" id="19027">
      <title id="t570">
       Carroll, IA
      </title>
     </path>
-    <path d="M 302.139,120.372 L 302.166,124.874 L 297.727,124.901 L 296.622,124.91 L 296.622,120.393 L 299.926,120.386 L 302.139,120.372" id="19047" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#DF65B0">
+    <path d="M 302.139,120.372 L 302.166,124.874 L 297.727,124.901 L 296.622,124.91 L 296.622,120.393 L 299.926,120.386 L 302.139,120.372" id="19047">
      <title id="t571">
       Crawford, IA
      </title>
     </path>
-    <path d="M 296.622,120.393 L 296.622,124.91 L 292.156,124.879 L 290.889,122.526 L 290.100,120.345 L 296.622,120.393" id="19133" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#DF65B0">
+    <path d="M 296.622,120.393 L 296.622,124.91 L 292.156,124.879 L 290.889,122.526 L 290.100,120.345 L 296.622,120.393" id="19133">
      <title id="t572">
       Monona, IA
      </title>
     </path>
-    <path d="M 297.727,124.901 L 297.731,128.295 L 298.308,128.29 L 298.313,129.539 L 293.671,129.539 L 292.327,127.259 L 292.156,124.879 L 296.622,124.91 L 297.727,124.901" id="19085" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#DF65B0">
+    <path d="M 297.727,124.901 L 297.731,128.295 L 298.308,128.29 L 298.313,129.539 L 293.671,129.539 L 292.327,127.259 L 292.156,124.879 L 296.622,124.91 L 297.727,124.901" id="19085">
      <title id="t573">
       Harrison, IA
      </title>
     </path>
-    <path d="M 297.727,124.901 L 302.166,124.874 L 302.197,128.263 L 302.698,128.259 L 302.712,129.52 L 301.612,129.526 L 298.313,129.539 L 298.308,128.29 L 297.731,128.295 L 297.727,124.901" id="19165" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#DF65B0">
+    <path d="M 297.727,124.901 L 302.166,124.874 L 302.197,128.263 L 302.698,128.259 L 302.712,129.52 L 301.612,129.526 L 298.313,129.539 L 298.308,128.29 L 297.731,128.295 L 297.727,124.901" id="19165">
      <title id="t574">
       Shelby, IA
      </title>
     </path>
-    <path d="M 302.166,124.874 L 305.492,124.847 L 305.537,127.654 L 305.962,128.217 L 305.979,129.49 L 302.712,129.52 L 302.698,128.259 L 302.197,128.263 L 302.166,124.874" id="19009" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#C994C7">
+    <path d="M 302.166,124.874 L 305.492,124.847 L 305.537,127.654 L 305.962,128.217 L 305.979,129.49 L 302.712,129.52 L 302.698,128.259 L 302.197,128.263 L 302.166,124.874" id="19009">
      <title id="t575">
       Audubon, IA
      </title>
     </path>
-    <path d="M 306.601,124.829 L 309.931,124.769 L 309.995,128.164 L 310.369,128.164 L 310.391,129.427 L 305.979,129.49 L 305.962,128.217 L 305.537,127.654 L 305.492,124.847 L 306.601,124.829" id="19077" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#DF65B0">
+    <path d="M 306.601,124.829 L 309.931,124.769 L 309.995,128.164 L 310.369,128.164 L 310.391,129.427 L 305.979,129.49 L 305.962,128.217 L 305.537,127.654 L 305.492,124.847 L 306.601,124.829" id="19077">
      <title id="t576">
       Guthrie, IA
      </title>
     </path>
-    <path d="M 310.391,129.427 L 310.473,133.924 L 308.260,133.956 L 306.043,133.983 L 305.979,129.49 L 310.391,129.427" id="19001" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#DF65B0">
+    <path d="M 310.391,129.427 L 310.473,133.924 L 308.260,133.956 L 306.043,133.983 L 305.979,129.49 L 310.391,129.427" id="19001">
      <title id="t577">
       Adair, IA
      </title>
     </path>
-    <path d="M 305.979,129.49 L 306.043,133.983 L 303.847,134.006 L 301.643,134.018 L 301.612,129.526 L 302.712,129.52 L 305.979,129.49" id="19029" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#DF65B0">
+    <path d="M 305.979,129.49 L 306.043,133.983 L 303.847,134.006 L 301.643,134.018 L 301.612,129.526 L 302.712,129.52 L 305.979,129.49" id="19029">
      <title id="t578">
       Cass, IA
      </title>
     </path>
-    <path d="M 298.313,129.539 L 301.612,129.526 L 301.643,134.018 L 299.448,134.036 L 294.910,134.046 L 294.234,133.64 L 294.090,131.017 L 293.671,129.539 L 298.313,129.539" id="19155" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#DD1C77">
+    <path d="M 298.313,129.539 L 301.612,129.526 L 301.643,134.018 L 299.448,134.036 L 294.910,134.046 L 294.234,133.64 L 294.090,131.017 L 293.671,129.539 L 298.313,129.539" id="19155">
      <title id="t579">
       Pottawattamie, IA
      </title>
     </path>
-    <path d="M 295.208,137.399 L 299.452,137.381 L 299.466,139.13 L 299.579,140.582 L 299.588,141.55 L 295.775,141.51 L 294.905,138.931 L 295.208,137.399" id="19071" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#D4B9DA">
+    <path d="M 295.208,137.399 L 299.452,137.381 L 299.466,139.13 L 299.579,140.582 L 299.588,141.55 L 295.775,141.51 L 294.905,138.931 L 295.208,137.399" id="19071">
      <title id="t580">
       Fremont, IA
      </title>
     </path>
-    <path d="M 299.448,134.036 L 299.452,137.381 L 295.208,137.399 L 294.779,135.515 L 294.910,134.046 L 299.448,134.036" id="19129" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#DF65B0">
+    <path d="M 299.448,134.036 L 299.452,137.381 L 295.208,137.399 L 294.779,135.515 L 294.910,134.046 L 299.448,134.036" id="19129">
      <title id="t581">
       Mills, IA
      </title>
     </path>
-    <path d="M 301.643,134.018 L 303.847,134.006 L 303.874,137.353 L 299.452,137.381 L 299.448,134.036 L 301.643,134.018" id="19137" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#DF65B0">
+    <path d="M 301.643,134.018 L 303.847,134.006 L 303.874,137.353 L 299.452,137.381 L 299.448,134.036 L 301.643,134.018" id="19137">
      <title id="t582">
       Montgomery, IA
      </title>
     </path>
-    <path d="M 303.874,137.353 L 303.902,139.603 L 304.050,139.603 L 304.059,141.582 L 301.256,141.564 L 299.588,141.55 L 299.579,140.582 L 299.466,139.13 L 299.452,137.381 L 303.874,137.353" id="19145" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#DF65B0">
+    <path d="M 303.874,137.353 L 303.902,139.603 L 304.050,139.603 L 304.059,141.582 L 301.256,141.564 L 299.588,141.55 L 299.579,140.582 L 299.466,139.13 L 299.452,137.381 L 303.874,137.353" id="19145">
      <title id="t583">
       Page, IA
      </title>
     </path>
-    <path d="M 308.314,137.309 L 308.377,141.577 L 306.814,141.596 L 304.059,141.582 L 304.050,139.603 L 303.902,139.603 L 303.874,137.353 L 308.314,137.309" id="19173" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#C994C7">
+    <path d="M 308.314,137.309 L 308.377,141.577 L 306.814,141.596 L 304.059,141.582 L 304.050,139.603 L 303.902,139.603 L 303.874,137.353 L 308.314,137.309" id="19173">
      <title id="t584">
       Taylor, IA
      </title>
     </path>
-    <path d="M 308.260,133.956 L 308.314,137.309 L 303.874,137.353 L 303.847,134.006 L 306.043,133.983 L 308.260,133.956" id="19003" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#C994C7">
+    <path d="M 308.260,133.956 L 308.314,137.309 L 303.874,137.353 L 303.847,134.006 L 306.043,133.983 L 308.260,133.956" id="19003">
      <title id="t585">
       Adams, IA
      </title>
     </path>
-    <path d="M 310.473,133.924 L 312.668,133.888 L 312.735,137.26 L 308.314,137.309 L 308.260,133.956 L 310.473,133.924" id="19175" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#DF65B0">
+    <path d="M 310.473,133.924 L 312.668,133.888 L 312.735,137.26 L 308.314,137.309 L 308.260,133.956 L 310.473,133.924" id="19175">
      <title id="t586">
       Union, IA
      </title>
     </path>
-    <path d="M 308.314,137.309 L 312.735,137.26 L 312.812,141.456 L 310.703,141.522 L 308.377,141.577 L 308.314,137.309" id="19159" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#C994C7">
+    <path d="M 308.314,137.309 L 312.735,137.26 L 312.812,141.456 L 310.703,141.522 L 308.377,141.577 L 308.314,137.309" id="19159">
      <title id="t587">
       Ringgold, IA
      </title>
     </path>
-    <path d="M 312.735,137.26 L 317.170,137.142 L 317.274,141.27 L 315.160,141.357 L 312.812,141.456 L 312.735,137.26" id="19053" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#C994C7">
+    <path d="M 312.735,137.26 L 317.170,137.142 L 317.274,141.27 L 315.160,141.357 L 312.812,141.456 L 312.735,137.26" id="19053">
      <title id="t588">
       Decatur, IA
      </title>
     </path>
-    <path d="M 317.076,133.725 L 317.170,137.142 L 312.735,137.26 L 312.668,133.888 L 314.840,133.771 L 317.076,133.725" id="19039" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#DF65B0">
+    <path d="M 317.076,133.725 L 317.170,137.142 L 312.735,137.26 L 312.668,133.888 L 314.840,133.771 L 317.076,133.725" id="19039">
      <title id="t589">
       Clarke, IA
      </title>
     </path>
-    <path d="M 314.723,129.227 L 314.840,133.771 L 312.668,133.888 L 310.473,133.924 L 310.391,129.427 L 314.723,129.227" id="19121" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#DF65B0">
+    <path d="M 314.723,129.227 L 314.840,133.771 L 312.668,133.888 L 310.473,133.924 L 310.391,129.427 L 314.723,129.227" id="19121">
      <title id="t590">
       Madison, IA
      </title>
     </path>
-    <path d="M 314.372,124.671 L 314.453,127.519 L 314.691,128.083 L 314.723,129.227 L 310.391,129.427 L 310.369,128.164 L 309.995,128.164 L 309.931,124.769 L 311.045,124.748 L 314.372,124.671" id="19049" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#DD1C77">
+    <path d="M 314.372,124.671 L 314.453,127.519 L 314.691,128.083 L 314.723,129.227 L 310.391,129.427 L 310.369,128.164 L 309.995,128.164 L 309.931,124.769 L 311.045,124.748 L 314.372,124.671" id="19049">
      <title id="t591">
       Dallas, IA
      </title>
     </path>
-    <path d="M 315.386,120.159 L 315.499,124.644 L 314.372,124.671 L 311.045,124.748 L 310.951,120.251 L 313.168,120.2 L 315.386,120.159" id="19015" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#DF65B0">
+    <path d="M 315.386,120.159 L 315.499,124.644 L 314.372,124.671 L 311.045,124.748 L 310.951,120.251 L 313.168,120.2 L 315.386,120.159" id="19015">
      <title id="t592">
       Boone, IA
      </title>
     </path>
-    <path d="M 317.161,115.599 L 317.625,120.104 L 315.386,120.159 L 313.168,120.2 L 313.092,116.807 L 312.713,116.811 L 312.691,115.698 L 317.161,115.599" id="19079" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#DF65B0">
+    <path d="M 317.161,115.599 L 317.625,120.104 L 315.386,120.159 L 313.168,120.2 L 313.092,116.807 L 312.713,116.811 L 312.691,115.698 L 317.161,115.599" id="19079">
      <title id="t593">
       Hamilton, IA
      </title>
     </path>
-    <path d="M 312.595,111.168 L 317.049,111.051 L 317.161,115.599 L 312.691,115.698 L 312.668,114.575 L 312.595,111.168" id="19197" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#DF65B0">
+    <path d="M 312.595,111.168 L 317.049,111.051 L 317.161,115.599 L 312.691,115.698 L 312.668,114.575 L 312.595,111.168" id="19197">
      <title id="t594">
       Wright, IA
      </title>
     </path>
-    <path d="M 316.941,106.557 L 317.049,111.051 L 312.595,111.168 L 312.510,106.665 L 316.941,106.557" id="19081" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#DF65B0">
+    <path d="M 316.941,106.557 L 317.049,111.051 L 312.595,111.168 L 312.510,106.665 L 316.941,106.557" id="19081">
      <title id="t595">
       Hancock, IA
      </title>
     </path>
-    <path d="M 316.860,103.397 L 316.941,106.557 L 312.510,106.665 L 312.438,103.501 L 315.444,103.433 L 316.860,103.397" id="19189" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#DF65B0">
+    <path d="M 316.860,103.397 L 316.941,106.557 L 312.510,106.665 L 312.438,103.501 L 315.444,103.433 L 316.860,103.397" id="19189">
      <title id="t596">
       Winnebago, IA
      </title>
     </path>
-    <path d="M 321.272,103.266 L 321.375,106.427 L 316.941,106.557 L 316.860,103.397 L 321.042,103.276 L 321.272,103.266" id="19195" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#C994C7">
+    <path d="M 321.272,103.266 L 321.375,106.427 L 316.941,106.557 L 316.860,103.397 L 321.042,103.276 L 321.272,103.266" id="19195">
      <title id="t597">
       Worth, IA
      </title>
     </path>
-    <path d="M 316.941,106.557 L 321.375,106.427 L 321.393,106.981 L 321.506,110.929 L 317.049,111.051 L 316.941,106.557" id="19033" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#DD1C77">
+    <path d="M 316.941,106.557 L 321.375,106.427 L 321.393,106.981 L 321.506,110.929 L 317.049,111.051 L 316.941,106.557" id="19033">
      <title id="t598">
       Cerro Gordo, IA
      </title>
     </path>
-    <path d="M 317.049,111.051 L 321.506,110.929 L 321.632,115.481 L 317.161,115.599 L 317.049,111.051" id="19069" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#DF65B0">
+    <path d="M 317.049,111.051 L 321.506,110.929 L 321.632,115.481 L 317.161,115.599 L 317.049,111.051" id="19069">
      <title id="t599">
       Franklin, IA
      </title>
     </path>
-    <path d="M 321.632,115.481 L 322.016,119.974 L 319.825,120.047 L 317.625,120.104 L 317.161,115.599 L 321.632,115.481" id="19083" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#DF65B0">
+    <path d="M 321.632,115.481 L 322.016,119.974 L 319.825,120.047 L 317.625,120.104 L 317.161,115.599 L 321.632,115.481" id="19083">
      <title id="t600">
       Hardin, IA
      </title>
     </path>
-    <path d="M 319.825,120.047 L 319.955,124.536 L 318.847,124.562 L 315.499,124.644 L 315.386,120.159 L 317.625,120.104 L 319.825,120.047" id="19169" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#DD1C77">
+    <path d="M 319.825,120.047 L 319.955,124.536 L 318.847,124.562 L 315.499,124.644 L 315.386,120.159 L 317.625,120.104 L 319.825,120.047" id="19169">
      <title id="t601">
       Story, IA
      </title>
     </path>
-    <path d="M 318.847,124.562 L 319.158,129.17 L 319.166,129.377 L 314.723,129.227 L 314.691,128.083 L 314.453,127.519 L 314.372,124.671 L 315.499,124.644 L 318.847,124.562" id="19153" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#980043">
+    <path d="M 318.847,124.562 L 319.158,129.17 L 319.166,129.377 L 314.723,129.227 L 314.691,128.083 L 314.453,127.519 L 314.372,124.671 L 315.499,124.644 L 318.847,124.562" id="19153">
      <title id="t602">
       Polk, IA
      </title>
     </path>
-    <path d="M 319.166,129.377 L 319.292,133.671 L 317.076,133.725 L 314.840,133.771 L 314.723,129.227 L 319.166,129.377" id="19181" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#DF65B0">
+    <path d="M 319.166,129.377 L 319.292,133.671 L 317.076,133.725 L 314.840,133.771 L 314.723,129.227 L 319.166,129.377" id="19181">
      <title id="t603">
       Warren, IA
      </title>
     </path>
-    <path d="M 319.292,133.671 L 321.502,133.608 L 321.618,137.012 L 317.170,137.142 L 317.076,133.725 L 319.292,133.671" id="19117" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#DF65B0">
+    <path d="M 319.292,133.671 L 321.502,133.608 L 321.618,137.012 L 317.170,137.142 L 317.076,133.725 L 319.292,133.671" id="19117">
      <title id="t604">
       Lucas, IA
      </title>
     </path>
-    <path d="M 321.618,137.012 L 321.749,141.096 L 319.054,141.221 L 317.274,141.27 L 317.170,137.142 L 321.618,137.012" id="19185" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#C994C7">
+    <path d="M 321.618,137.012 L 321.749,141.096 L 319.054,141.221 L 317.274,141.27 L 317.170,137.142 L 321.618,137.012" id="19185">
      <title id="t605">
       Wayne, IA
      </title>
     </path>
-    <path d="M 326.059,136.858 L 326.216,140.86 L 325.472,140.901 L 321.749,141.096 L 321.618,137.012 L 326.059,136.858" id="19007" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#DF65B0">
+    <path d="M 326.059,136.858 L 326.216,140.86 L 325.472,140.901 L 321.749,141.096 L 321.618,137.012 L 326.059,136.858" id="19007">
      <title id="t606">
       Appanoose, IA
      </title>
     </path>
-    <path d="M 325.927,133.456 L 326.059,136.858 L 321.618,137.012 L 321.502,133.608 L 323.715,133.536 L 325.927,133.456" id="19135" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#DF65B0">
+    <path d="M 325.927,133.456 L 326.059,136.858 L 321.618,137.012 L 321.502,133.608 L 323.715,133.536 L 325.927,133.456" id="19135">
      <title id="t607">
       Monroe, IA
      </title>
     </path>
-    <path d="M 323.552,129.025 L 323.715,133.536 L 321.502,133.608 L 319.292,133.671 L 319.166,129.377 L 319.158,129.17 L 323.552,129.025" id="19125" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#DF65B0">
+    <path d="M 323.552,129.025 L 323.715,133.536 L 321.502,133.608 L 319.292,133.671 L 319.166,129.377 L 319.158,129.17 L 323.552,129.025" id="19125">
      <title id="t608">
       Marion, IA
      </title>
     </path>
-    <path d="M 319.955,124.536 L 324.403,124.401 L 324.652,128.984 L 323.552,129.025 L 319.158,129.17 L 318.847,124.562 L 319.955,124.536" id="19099" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#DF65B0">
+    <path d="M 319.955,124.536 L 324.403,124.401 L 324.652,128.984 L 323.552,129.025 L 319.158,129.17 L 318.847,124.562 L 319.955,124.536" id="19099">
      <title id="t609">
       Jasper, IA
      </title>
     </path>
-    <path d="M 322.016,119.974 L 324.237,119.893 L 324.403,124.401 L 319.955,124.536 L 319.825,120.047 L 322.016,119.974" id="19127" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#DD1C77">
+    <path d="M 322.016,119.974 L 324.237,119.893 L 324.403,124.401 L 319.955,124.536 L 319.825,120.047 L 322.016,119.974" id="19127">
      <title id="t610">
       Marshall, IA
      </title>
     </path>
-    <path d="M 326.112,115.342 L 326.419,118.684 L 324.2013,118.771 L 324.237,119.893 L 322.016,119.974 L 321.632,115.481 L 326.112,115.342" id="19075" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#DF65B0">
+    <path d="M 326.112,115.342 L 326.419,118.684 L 324.2013,118.771 L 324.237,119.893 L 322.016,119.974 L 321.632,115.481 L 326.112,115.342" id="19075">
      <title id="t611">
       Grundy, IA
      </title>
     </path>
-    <path d="M 321.506,110.929 L 325.937,110.79 L 326.059,114.22 L 326.112,115.342 L 321.632,115.481 L 321.506,110.929" id="19023" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#DF65B0">
+    <path d="M 321.506,110.929 L 325.937,110.79 L 326.059,114.22 L 326.112,115.342 L 321.632,115.481 L 321.506,110.929" id="19023">
      <title id="t612">
       Butler, IA
      </title>
     </path>
-    <path d="M 321.393,106.981 L 325.792,106.832 L 325.937,110.79 L 321.506,110.929 L 321.393,106.981" id="19067" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#DF65B0">
+    <path d="M 321.393,106.981 L 325.792,106.832 L 325.937,110.79 L 321.506,110.929 L 321.393,106.981" id="19067">
      <title id="t613">
       Floyd, IA
      </title>
     </path>
-    <path d="M 325.671,103.109 L 325.792,106.832 L 321.393,106.981 L 321.272,103.266 L 325.671,103.109" id="19131" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#DF65B0">
+    <path d="M 325.671,103.109 L 325.792,106.832 L 321.393,106.981 L 321.272,103.266 L 325.671,103.109" id="19131">
      <title id="t614">
       Mitchell, IA
      </title>
     </path>
-    <path d="M 326.645,103.073 L 330.083,102.933 L 330.232,106.656 L 325.792,106.832 L 325.671,103.109 L 326.645,103.073" id="19089" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#DF65B0">
+    <path d="M 326.645,103.073 L 330.083,102.933 L 330.232,106.656 L 325.792,106.832 L 325.671,103.109 L 326.645,103.073" id="19089">
      <title id="t615">
       Howard, IA
      </title>
     </path>
-    <path d="M 330.232,106.656 L 330.294,108.343 L 330.385,110.618 L 325.937,110.79 L 325.792,106.832 L 330.232,106.656" id="19037" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#DF65B0">
+    <path d="M 330.232,106.656 L 330.294,108.343 L 330.385,110.618 L 325.937,110.79 L 325.792,106.832 L 330.232,106.656" id="19037">
      <title id="t616">
       Chickasaw, IA
      </title>
     </path>
-    <path d="M 325.937,110.79 L 330.385,110.618 L 330.526,114.048 L 326.059,114.22 L 325.937,110.79" id="19017" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#DF65B0">
+    <path d="M 325.937,110.79 L 330.385,110.618 L 330.526,114.048 L 326.059,114.22 L 325.937,110.79" id="19017">
      <title id="t617">
       Bremer, IA
      </title>
     </path>
-    <path d="M 330.526,114.048 L 330.623,116.307 L 330.800,116.595 L 330.872,118.511 L 328.650,118.597 L 326.419,118.684 L 326.112,115.342 L 326.059,114.22 L 330.526,114.048" id="19013" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#DD1C77">
+    <path d="M 330.526,114.048 L 330.623,116.307 L 330.800,116.595 L 330.872,118.511 L 328.650,118.597 L 326.419,118.684 L 326.112,115.342 L 326.059,114.22 L 330.526,114.048" id="19013">
      <title id="t618">
       Black Hawk, IA
      </title>
     </path>
-    <path d="M 328.650,118.597 L 328.875,124.233 L 324.403,124.401 L 324.197,118.770 L 328.650,118.597" id="19171" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#DF65B0">
+    <path d="M 328.650,118.597 L 328.875,124.233 L 324.403,124.401 L 324.197,118.770 L 328.650,118.597" id="19171">
      <title id="t619">
       Tama, IA
      </title>
     </path>
-    <path d="M 324.403,124.401 L 328.875,124.233 L 329.061,128.813 L 327.960,128.858 L 324.652,128.984 L 324.403,124.401" id="19157" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#DF65B0">
+    <path d="M 324.403,124.401 L 328.875,124.233 L 329.061,128.813 L 327.960,128.858 L 324.652,128.984 L 324.403,124.401" id="19157">
      <title id="t620">
       Poweshiek, IA
      </title>
     </path>
-    <path d="M 324.652,128.984 L 327.960,128.858 L 328.150,133.366 L 325.927,133.456 L 323.715,133.536 L 323.552,129.025 L 324.652,128.984" id="19123" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#DF65B0">
+    <path d="M 324.652,128.984 L 327.960,128.858 L 328.150,133.366 L 325.927,133.456 L 323.715,133.536 L 323.552,129.025 L 324.652,128.984" id="19123">
      <title id="t621">
       Mahaska, IA
      </title>
     </path>
-    <path d="M 328.150,133.366 L 330.372,133.27 L 330.516,136.682 L 326.059,136.858 L 325.927,133.456 L 328.150,133.366" id="19179" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#DF65B0">
+    <path d="M 328.150,133.366 L 330.372,133.27 L 330.516,136.682 L 326.059,136.858 L 325.927,133.456 L 328.150,133.366" id="19179">
      <title id="t622">
       Wapello, IA
      </title>
     </path>
-    <path d="M 330.516,136.682 L 330.664,140.563 L 329.006,140.671 L 326.216,140.86 L 326.059,136.858 L 330.516,136.682" id="19051" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#C994C7">
+    <path d="M 330.516,136.682 L 330.664,140.563 L 329.006,140.671 L 326.216,140.86 L 326.059,136.858 L 330.516,136.682" id="19051">
      <title id="t623">
       Davis, IA
      </title>
     </path>
-    <path d="M 330.516,136.682 L 334.978,136.475 L 335.024,137.611 L 335.171,140.395 L 332.963,140.401 L 330.664,140.563 L 330.516,136.682" id="19177" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#C994C7">
+    <path d="M 330.516,136.682 L 334.978,136.475 L 335.024,137.611 L 335.171,140.395 L 332.963,140.401 L 330.664,140.563 L 330.516,136.682" id="19177">
      <title id="t624">
       Van Buren, IA
      </title>
     </path>
-    <path d="M 334.847,133.077 L 334.978,136.475 L 330.516,136.682 L 330.372,133.27 L 332.629,133.162 L 334.847,133.077" id="19101" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#DF65B0">
+    <path d="M 334.847,133.077 L 334.978,136.475 L 330.516,136.682 L 330.372,133.27 L 332.629,133.162 L 334.847,133.077" id="19101">
      <title id="t625">
       Jefferson, IA
      </title>
     </path>
-    <path d="M 333.089,118.393 L 333.333,124.062 L 328.875,124.233 L 328.650,118.597 L 330.872,118.511 L 333.089,118.393" id="19011" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#DF65B0">
+    <path d="M 333.089,118.393 L 333.333,124.062 L 328.875,124.233 L 328.650,118.597 L 330.872,118.511 L 333.089,118.393" id="19011">
      <title id="t626">
       Benton, IA
      </title>
     </path>
-    <path d="M 328.875,124.233 L 333.333,124.062 L 333.553,128.6 L 332.436,128.66 L 329.061,128.813 L 328.875,124.233" id="19095" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#DF65B0">
+    <path d="M 328.875,124.233 L 333.333,124.062 L 333.553,128.6 L 332.436,128.66 L 329.061,128.813 L 328.875,124.233" id="19095">
      <title id="t627">
       Iowa, IA
      </title>
     </path>
-    <path d="M 329.061,128.813 L 332.436,128.66 L 332.629,133.162 L 330.372,133.27 L 328.150,133.366 L 327.960,128.858 L 329.061,128.813" id="19107" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#C994C7">
+    <path d="M 329.061,128.813 L 332.436,128.66 L 332.629,133.162 L 330.372,133.27 L 328.150,133.366 L 327.960,128.858 L 329.061,128.813" id="19107">
      <title id="t628">
       Keokuk, IA
      </title>
     </path>
-    <path d="M 333.553,128.6 L 336.519,128.471 L 336.677,128.696 L 336.925,129.584 L 337.065,132.977 L 334.847,133.077 L 332.629,133.162 L 332.436,128.66 L 333.553,128.6" id="19183" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#DF65B0">
+    <path d="M 333.553,128.6 L 336.519,128.471 L 336.677,128.696 L 336.925,129.584 L 337.065,132.977 L 334.847,133.077 L 332.629,133.162 L 332.436,128.66 L 333.553,128.6" id="19183">
      <title id="t629">
       Washington, IA
      </title>
     </path>
-    <path d="M 337.065,132.977 L 338.232,134.068 L 338.025,137.48 L 335.024,137.611 L 334.978,136.475 L 334.847,133.077 L 337.065,132.977" id="19087" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#DF65B0">
+    <path d="M 337.065,132.977 L 338.232,134.068 L 338.025,137.48 L 335.024,137.611 L 334.978,136.475 L 334.847,133.077 L 337.065,132.977" id="19087">
      <title id="t630">
       Henry, IA
      </title>
     </path>
-    <path d="M 335.024,137.611 L 338.025,137.48 L 340.982,138.846 L 340.305,139.64 L 339.990,139.648 L 339.733,139.667 L 339.656,139.671 L 339.652,139.671 L 339.142,139.85 L 339.128,139.859 L 339.070,139.892 L 338.826,140.031 L 338.740,140.085 L 338.710,140.118 L 338.674,140.153 L 338.638,140.194 L 338.228,140.824 L 338.213,140.92 L 338.245,141.028 L 338.444,141.122 L 338.606,141.357 L 338.660,141.514 L 338.668,141.644 L 338.642,142.804 L 338.638,142.812 L 338.615,142.925 L 338.512,143.011 L 338.498,143.019 L 338.200,143.124 L 337.561,143.078 L 337.154,142.749 L 336.172,141.541 L 336.136,141.451 L 336.168,141.189 L 336.145,141.104 L 335.374,140.522 L 335.171,140.395 L 335.024,137.611" id="19111" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#DD1C77">
+    <path d="M 335.024,137.611 L 338.025,137.48 L 340.982,138.846 L 340.305,139.64 L 339.990,139.648 L 339.733,139.667 L 339.656,139.671 L 339.652,139.671 L 339.142,139.85 L 339.128,139.859 L 339.070,139.892 L 338.826,140.031 L 338.740,140.085 L 338.710,140.118 L 338.674,140.153 L 338.638,140.194 L 338.228,140.824 L 338.213,140.92 L 338.245,141.028 L 338.444,141.122 L 338.606,141.357 L 338.660,141.514 L 338.668,141.644 L 338.642,142.804 L 338.638,142.812 L 338.615,142.925 L 338.512,143.011 L 338.498,143.019 L 338.200,143.124 L 337.561,143.078 L 337.154,142.749 L 336.172,141.541 L 336.136,141.451 L 336.168,141.189 L 336.145,141.104 L 335.374,140.522 L 335.171,140.395 L 335.024,137.611" id="19111">
      <title id="t631">
       Lee, IA
      </title>
     </path>
-    <path d="M 342.302,133.879 L 342.311,133.911 L 342.347,134.023 L 342.396,134.371 L 342.357,135.421 L 342.275,135.804 L 342.221,135.885 L 341.942,136.043 L 341.838,136.145 L 341.085,137.219 L 341.049,137.386 L 340.982,138.846 L 338.025,137.48 L 338.232,134.068 L 342.302,133.879" id="19057" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#DD1C77">
+    <path d="M 342.302,133.879 L 342.311,133.911 L 342.347,134.023 L 342.396,134.371 L 342.357,135.421 L 342.275,135.804 L 342.221,135.885 L 341.942,136.043 L 341.838,136.145 L 341.085,137.219 L 341.049,137.386 L 340.982,138.846 L 338.025,137.48 L 338.232,134.068 L 342.302,133.879" id="19057">
      <title id="t632">
       Des Moines, IA
      </title>
     </path>
-    <path d="M 336.925,129.584 L 338.034,129.539 L 338.083,130.67 L 340.868,130.562 L 340.868,130.566 L 340.593,131.667 L 340.603,131.774 L 340.607,131.783 L 341.260,132.568 L 341.568,132.721 L 341.697,132.703 L 341.775,132.739 L 341.857,132.824 L 342.311,133.568 L 342.302,133.879 L 338.232,134.068 L 337.065,132.977 L 336.925,129.584" id="19115" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#C994C7">
+    <path d="M 336.925,129.584 L 338.034,129.539 L 338.083,130.67 L 340.868,130.562 L 340.868,130.566 L 340.593,131.667 L 340.603,131.774 L 340.607,131.783 L 341.260,132.568 L 341.568,132.721 L 341.697,132.703 L 341.775,132.739 L 341.857,132.824 L 342.311,133.568 L 342.302,133.879 L 338.232,134.068 L 337.065,132.977 L 336.925,129.584" id="19115">
      <title id="t633">
       Louisa, IA
      </title>
     </path>
-    <path d="M 342.414,127.056 L 343.609,128.867 L 343.019,128.872 L 341.667,129.241 L 341.305,129.372 L 341.202,129.439 L 341.193,129.444 L 341.193,129.448 L 341.125,129.544 L 341.116,129.569 L 340.982,130.12 L 340.868,130.562 L 338.083,130.67 L 338.034,129.539 L 337.944,127.267 L 342.414,127.056" id="19139" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#DD1C77">
+    <path d="M 342.414,127.056 L 343.609,128.867 L 343.019,128.872 L 341.667,129.241 L 341.305,129.372 L 341.202,129.439 L 341.193,129.444 L 341.193,129.448 L 341.125,129.544 L 341.116,129.569 L 340.982,130.12 L 340.868,130.562 L 338.083,130.67 L 338.034,129.539 L 337.944,127.267 L 342.414,127.056" id="19139">
      <title id="t634">
       Muscatine, IA
      </title>
     </path>
-    <path d="M 337.781,123.878 L 337.944,127.267 L 338.034,129.539 L 336.925,129.584 L 336.677,128.696 L 336.519,128.471 L 333.553,128.6 L 333.333,124.062 L 337.781,123.878" id="19103" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#DD1C77">
+    <path d="M 337.781,123.878 L 337.944,127.267 L 338.034,129.539 L 336.925,129.584 L 336.677,128.696 L 336.519,128.471 L 333.553,128.6 L 333.333,124.062 L 337.781,123.878" id="19103">
      <title id="t635">
       Johnson, IA
      </title>
     </path>
-    <path d="M 337.533,118.222 L 337.728,122.747 L 337.781,123.878 L 333.333,124.062 L 333.089,118.393 L 335.316,118.329 L 337.533,118.222" id="19113" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#DD1C77">
+    <path d="M 337.533,118.222 L 337.728,122.747 L 337.781,123.878 L 333.333,124.062 L 333.089,118.393 L 335.316,118.329 L 337.533,118.222" id="19113">
      <title id="t636">
       Linn, IA
      </title>
     </path>
-    <path d="M 342.185,122.535 L 342.307,124.797 L 342.414,127.056 L 337.944,127.267 L 337.728,122.747 L 342.185,122.535" id="19031" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#DF65B0">
+    <path d="M 342.185,122.535 L 342.307,124.797 L 342.414,127.056 L 337.944,127.267 L 337.728,122.747 L 342.185,122.535" id="19031">
      <title id="t637">
       Cedar, IA
      </title>
     </path>
-    <path d="M 339.746,118.118 L 341.945,118.009 L 342.127,121.399 L 342.185,122.535 L 337.728,122.747 L 337.533,118.222 L 339.746,118.118" id="19105" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#DF65B0">
+    <path d="M 339.746,118.118 L 341.945,118.009 L 342.127,121.399 L 342.185,122.535 L 337.728,122.747 L 337.533,118.222 L 339.746,118.118" id="19105">
      <title id="t638">
       Jones, IA
      </title>
     </path>
-    <path d="M 335.009,113.831 L 335.036,114.814 L 335.099,116.094 L 335.262,117.333 L 335.316,118.329 L 333.089,118.393 L 330.872,118.511 L 330.800,116.595 L 330.623,116.307 L 330.526,114.048 L 335.009,113.831" id="19019" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#DF65B0">
+    <path d="M 335.009,113.831 L 335.036,114.814 L 335.099,116.094 L 335.262,117.333 L 335.316,118.329 L 333.089,118.393 L 330.872,118.511 L 330.800,116.595 L 330.623,116.307 L 330.526,114.048 L 335.009,113.831" id="19019">
      <title id="t639">
       Buchanan, IA
      </title>
     </path>
-    <path d="M 330.294,108.343 L 334.767,108.161 L 335.009,113.831 L 330.526,114.048 L 330.385,110.618 L 330.294,108.343" id="19065" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#DF65B0">
+    <path d="M 330.294,108.343 L 334.767,108.161 L 335.009,113.831 L 330.526,114.048 L 330.385,110.618 L 330.294,108.343" id="19065">
      <title id="t640">
       Fayette, IA
      </title>
     </path>
-    <path d="M 334.460,102.744 L 334.554,104.795 L 334.622,104.79 L 334.767,108.161 L 330.294,108.343 L 330.232,106.656 L 330.083,102.933 L 333.347,102.794 L 334.460,102.744" id="19191" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#DF65B0">
+    <path d="M 334.460,102.744 L 334.554,104.795 L 334.622,104.79 L 334.767,108.161 L 330.294,108.343 L 330.232,106.656 L 330.083,102.933 L 333.347,102.794 L 334.460,102.744" id="19191">
      <title id="t641">
       Winneshiek, IA
      </title>
     </path>
-    <path d="M 338.128,102.568 L 338.290,103.564 L 338.281,104.227 L 339.282,104.931 L 339.499,105.206 L 339.782,105.661 L 339.746,105.822 L 339.026,107.035 L 338.781,107.986 L 334.767,108.161 L 334.622,104.79 L 334.554,104.795 L 334.460,102.744 L 338.128,102.568" id="19005" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#DF65B0">
+    <path d="M 338.128,102.568 L 338.290,103.564 L 338.281,104.227 L 339.282,104.931 L 339.499,105.206 L 339.782,105.661 L 339.746,105.822 L 339.026,107.035 L 338.781,107.986 L 334.767,108.161 L 334.622,104.79 L 334.554,104.795 L 334.460,102.744 L 338.128,102.568" id="19005">
      <title id="t642">
       Allamakee, IA
      </title>
     </path>
-    <path d="M 338.781,107.986 L 338.981,109.212 L 339.192,110.198 L 340.053,112.11 L 340.170,112.353 L 340.931,112.858 L 341.193,112.979 L 341.689,113.097 L 339.485,113.589 L 335.009,113.831 L 334.767,108.161 L 338.781,107.986" id="19043" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#DF65B0">
+    <path d="M 338.781,107.986 L 338.981,109.212 L 339.192,110.198 L 340.053,112.11 L 340.170,112.353 L 340.931,112.858 L 341.193,112.979 L 341.689,113.097 L 339.485,113.589 L 335.009,113.831 L 334.767,108.161 L 338.781,107.986" id="19043">
      <title id="t643">
       Clayton, IA
      </title>
     </path>
-    <path d="M 335.009,113.831 L 339.485,113.589 L 339.746,118.118 L 337.533,118.222 L 335.316,118.329 L 335.262,117.333 L 335.099,116.094 L 335.036,114.814 L 335.009,113.831" id="19055" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#DF65B0">
+    <path d="M 335.009,113.831 L 339.485,113.589 L 339.746,118.118 L 337.533,118.222 L 335.316,118.329 L 335.262,117.333 L 335.099,116.094 L 335.036,114.814 L 335.009,113.831" id="19055">
      <title id="t644">
       Delaware, IA
      </title>
     </path>
-    <path d="M 339.485,113.589 L 341.689,113.097 L 342.910,113.331 L 343.383,113.444 L 343.491,113.497 L 343.559,113.565 L 344.159,114.656 L 344.262,114.981 L 344.268,115.054 L 344.232,115.116 L 344.100,115.342 L 344.096,115.372 L 344.105,115.444 L 344.127,115.509 L 344.204,115.589 L 344.424,115.747 L 345.061,116.076 L 345.871,116.64 L 345.875,116.644 L 345.899,116.667 L 344.096,116.761 L 344.155,117.896 L 341.945,118.009 L 339.746,118.118 L 339.485,113.589" id="19061" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#DD1C77">
+    <path d="M 339.485,113.589 L 341.689,113.097 L 342.910,113.331 L 343.383,113.444 L 343.491,113.497 L 343.559,113.565 L 344.159,114.656 L 344.262,114.981 L 344.268,115.054 L 344.232,115.116 L 344.100,115.342 L 344.096,115.372 L 344.105,115.444 L 344.127,115.509 L 344.204,115.589 L 344.424,115.747 L 345.061,116.076 L 345.871,116.64 L 345.875,116.644 L 345.899,116.667 L 344.096,116.761 L 344.155,117.896 L 341.945,118.009 L 339.746,118.118 L 339.485,113.589" id="19061">
      <title id="t645">
       Dubuque, IA
      </title>
     </path>
-    <path d="M 345.899,116.667 L 346.466,117.324 L 346.493,117.366 L 346.498,117.415 L 346.444,117.78 L 346.390,117.901 L 346.390,117.983 L 346.522,118.28 L 346.529,118.294 L 346.800,118.632 L 346.809,118.64 L 346.972,118.771 L 347.147,118.884 L 347.544,119.011 L 349.211,120.997 L 342.127,121.399 L 341.945,118.009 L 344.155,117.896 L 344.096,116.761 L 345.899,116.667" id="19097" style="font-size:12px;fill-rule:nonzero;stroke:#FFFFFF;stroke-opacity:1;
-stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
-marker-start:none;stroke-linejoin:bevel;fill:#DF65B0">
+    <path d="M 345.899,116.667 L 346.466,117.324 L 346.493,117.366 L 346.498,117.415 L 346.444,117.78 L 346.390,117.901 L 346.390,117.983 L 346.522,118.28 L 346.529,118.294 L 346.800,118.632 L 346.809,118.64 L 346.972,118.771 L 347.147,118.884 L 347.544,119.011 L 349.211,120.997 L 342.127,121.399 L 341.945,118.009 L 344.155,117.896 L 344.096,116.761 L 345.899,116.667" id="19097">
      <title id="t646">
       Jackson, IA
      </title>

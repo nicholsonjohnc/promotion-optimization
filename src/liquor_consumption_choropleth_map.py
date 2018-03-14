@@ -4,18 +4,9 @@ import csv
 from bs4 import BeautifulSoup
 from iowa_liquor_sales_service import IowaLiquorSalesService
 import pandas as pd
+import numpy as np
  
-# Read in unemployment rates
-unemployment = {}
-min_value = 100; max_value = 0
-reader = csv.reader(open('unemployment09.csv'), delimiter=",")
-for row in reader:
-    try:
-        full_fips = row[1] + row[2]
-        rate = float( row[8].strip() )
-        unemployment[full_fips] = rate
-    except:
-        pass
+
  
 # Get county consumption example.
 iowa_liquor_sales_service = IowaLiquorSalesService()
@@ -26,8 +17,12 @@ df_temp = df_temp.set_index('county')
 
 df = pd.merge(pd.DataFrame(df),pd.DataFrame(df_temp),left_index=True,right_index=True)
 df = df.set_index('fips')
-df['county_consumption_scaled'] = df['county_consumption'] / df['county_consumption'].sum()
 
+
+
+df['county_consumption'] = df['county_consumption'] / 1000000
+
+df.to_csv('iow_county_data.csv')
 # print(df['county_consumption_scaled'].sum())
 
 
@@ -52,8 +47,8 @@ stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:butt;
 marker-start:none;stroke-linejoin:bevel;fill:'''
  
 # Color the counties based on unemployment rate
-print(df.index)
-print(df['county_consumption_scaled'].loc[19001])
+print(df)
+# print(df['county_consumption_scaled'].loc[19001])
 # print(df['county_consumption'].at('19003'))
 for p in paths:
     # print(p)
@@ -61,7 +56,7 @@ for p in paths:
         try:
             # print(p['id'])
             rate = df['county_consumption_scaled'].loc[int(p['id'])]
-            print(rate)
+            # print(rate)
             # rate = unemployment[p['id']]
         except:
             continue
