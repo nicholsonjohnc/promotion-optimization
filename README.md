@@ -18,23 +18,45 @@ Price optimization
 * Optimize price to maximize profit.
 
 
-## Exploratory data analysis
+## Which Iowa counties consume the most liquor by volume?
 
 <img src="./img/liquor_sales_choropleth_map.png">
 
-## Top 10 Stores by Transaction Count.
-|   | store | name                                 | transactions | 
-|---|-------|--------------------------------------|--------------| 
-| 0 | 2633  | Hy-Vee #3 / BDI / Des Moines         | 105536       | 
-| 1 | 2190  | "Central City Liquor, Inc."          | 85243        | 
-| 2 | 4829  | Central City 2                       | 83430        | 
-| 3 | 2512  | Hy-Vee Wine and Spirits / Iowa City  | 80920        | 
-| 4 | 2614  | Hy-Vee #3 Food and Drugstore         | 68722        | 
-| 5 | 2515  | Hy-Vee Food Store #1 / Mason City    | 64550        | 
-| 6 | 2603  | Hy-Vee Wine and Spirits / Bettendorf | 60492        | 
-| 7 | 2616  | Hy-Vee Food and Drug / Clinton       | 59046        | 
-| 8 | 2500  | Hy-Vee Food Store #1 / Ames          | 58487        | 
-| 9 | 2587  | Hy-Vee Food Store / Johnston         | 56929        | 
+## Who are the top 10 vendors in Iowa by sales?
+| ID  | Sales (Millions of $) | Vendor                             | 
+|-----|-----------------------|------------------------------------| 
+| 260 | 307.54                | Diageo Americas                    | 
+| 370 | 103.29                | Pernod Ricard USA/Austin Nichols   | 
+| 65  | 100.22                | Jim Beam Brands                    | 
+| 434 | 96.61                 | Luxco-St Louis                     | 
+| 115 | 85.89                 | "Constellation Wine Company, Inc." |
+| 85  | 80.92                 | Brown-Forman Corporation           | 
+| 421 | 79.48                 | "Sazerac Co., Inc."                | 
+| 35  | 67.17                 | "Bacardi U.S.A., Inc."             | 
+| 395 | 47.44                 | Proximo                            | 
+| 55  | 46.03                 | Sazerac North America              | 
+
+## What are Jim Beam Brands' top selling liquors by sales?
+| ItemID | Sales (Millions of $) | VendorID | Item                  | Volume (ml) | 
+|--------|-----------------------|----------|-----------------------|-------------| 
+| 19068  | 5.39                  | 65       | Jim Beam              | 1750        | 
+| 19067  | 4.9                   | 65       | Jim Beam              | 1000        | 
+| 34578  | 4.33                  | 65       | Pinnacle Vodka        | 1750        | 
+| 15248  | 3.97                  | 65       | Windsor Canadian Pet  | 1750        | 
+| 19066  | 3.9                   | 65       | Jim Beam              | 750         | 
+| 19476  | 3.88                  | 65       | Maker's Mark          | 750         | 
+| 19477  | 3.82                  | 65       | Maker's Mark          | 1000        | 
+| 24458  | 3.26                  | 65       | Kessler Blend Whiskey | 1750        | 
+| 82847  | 3.09                  | 65       | Dekuyper Peachtree    | 1000        | 
+| 10628  | 2.63                  | 65       | Canadian Club Whisky  | 1750        | 
+
+<img src="./img/price_response.png">
+
+<img src="./img/historical_demand_price.png">
+
+<img src="./img/monthly_demand_price.png">
+
+<img src="./img/liquor_sales_choropleth_map.png">
 
 
 ## Setting APP_TOKEN Environment Variable
