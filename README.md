@@ -36,7 +36,7 @@ Price optimization
 | 395 | 47.44                 | Proximo                            | 
 | 55  | 46.03                 | Sazerac North America              | 
 
-## What are Jim Beam Brands' top selling liquors by sales?
+## What are Jim Beam's top selling liquors by sales?
 | ItemID | Sales (Millions of $) | VendorID | Item                  | Volume (ml) | 
 |--------|-----------------------|----------|-----------------------|-------------| 
 | 19068  | 5.39                  | 65       | Jim Beam              | 1750        | 
@@ -52,17 +52,14 @@ Price optimization
 
 ## What is the price-response for Jim Beam 1750ml?
 <img src="./img/price_response.png">
-
 <img src="./img/log_log_price_response.png">
 
 ## How has demand for Jim Beam 1750ml varied over time?
 <img src="./img/historical_demand.png">
-
 <img src="./img/monthly_demand.png">
 
 ## How have prices for Jim Beam 1750ml varied over time?
 <img src="./img/historical_price.png">
-
 <img src="./img/monthly_change_price.png">
 
 
