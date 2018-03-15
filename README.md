@@ -50,14 +50,17 @@ Price optimization
 | 82847  | 3.09                  | 65       | Dekuyper Peachtree    | 1000        | 
 | 10628  | 2.63                  | 65       | Canadian Club Whisky  | 1750        | 
 
+## What is the price-response for Jim Beam 1750ml?
 <img src="./img/price_response.png">
 
 <img src="./img/log_log_price_response.png">
 
+## How has demand for Jim Beam 1750ml varied over time?
 <img src="./img/historical_demand.png">
 
 <img src="./img/monthly_demand.png">
 
+## How have prices for Jim Beam 1750ml varied over time?
 <img src="./img/historical_price.png">
 
 <img src="./img/monthly_change_price.png">
