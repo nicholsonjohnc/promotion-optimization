@@ -52,13 +52,15 @@ Price optimization
 
 <img src="./img/price_response.png">
 
-<img src="./img/historical_demand_price.png">
+<img src="./img/log_log_price_response.png">
 
-<img src="./img/historical_change_demand_price.png">
+<img src="./img/historical_demand.png">
 
-<img src="./img/monthly_demand_price.png">
+<img src="./img/monthly_demand.png">
 
-<img src="./img/monthly_change_demand_price.png">
+<img src="./img/historical_price.png">
+
+<img src="./img/monthly_change_price.png">
 
 
 
