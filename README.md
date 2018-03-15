@@ -56,10 +56,12 @@ Price optimization
 
 ## How has demand for Jim Beam 1750ml varied over time?
 <img src="./img/historical_demand.png">
+<img src="./img/demand_hist.png">
 <img src="./img/monthly_demand.png">
 
 ## How have prices for Jim Beam 1750ml varied over time?
 <img src="./img/historical_price.png">
+<img src="./img/price_hist.png">
 <img src="./img/monthly_change_price.png">
 
 
