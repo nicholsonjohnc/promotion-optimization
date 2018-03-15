@@ -54,9 +54,13 @@ Price optimization
 
 <img src="./img/historical_demand_price.png">
 
+<img src="./img/historical_change_demand_price.png">
+
 <img src="./img/monthly_demand_price.png">
 
-<img src="./img/historical_change_demand_price.png">
+<img src="./img/monthly_change_demand_price.png">
+
+
 
 
 ## Setting APP_TOKEN Environment Variable
