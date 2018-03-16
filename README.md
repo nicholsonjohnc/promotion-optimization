@@ -57,7 +57,7 @@ Demand modeling
 <img src="./img/monthly_price.png">
 
 ## Demand modeling
-* Take month (on hot encoded) and log price as features.
+* Take month (one hot encoded) and log price as features.
 * Take log demand as response.
 <img src="./img/hyperparameter_tuning.png">
 <img src="./img/accuracy_residuals.png">
