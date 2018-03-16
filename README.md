@@ -84,7 +84,9 @@ Demand modeling
 
 PED = % Change in Quantity Demanded / % Change in Price
 
-Therefore, % Change in Quantity Demanded = PED x % Change in Price
+Therefore, 
+
+% Change in Quantity Demanded = PED x % Change in Price
 
 So a +1% change in price will only result in a (-0.02) x 1% = -0.02% change in demand (very inelastic).
 
