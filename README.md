@@ -1,22 +1,14 @@
-# promotion-optimization
+# Promotion Optimization
 Demand modeling and promotion optimization using Iowa Liquor Sales dataset.
 
 ## Research questions
-
 Exploratory data analysis
 * Which Iowa counties consume the most liquor by volume?
-* Who are the top 10 vendors in Iowa by volume?
-* What was the top vendor's top selling liquor by volume?
-
-Statistical hypothesis testing
-* Does Iowa City, IA (Hawkeyes) drink more than Ames, IA (Cyclones) per capita? 
+* Who are the top 10 vendors in Iowa by sales?
+* What are Jim Beam's top selling liquors by sales?
 
 Demand modeling
-* Predict weekly sales as a function of price, seasonality, etc.
-
-Price optimization
-* Optimize price to maximize profit.
-
+* Predict weekly sales as a function of price and seasonality (month).
 
 ## Which Iowa counties consume the most liquor by volume?
 
@@ -64,16 +56,28 @@ Price optimization
 <img src="./img/price_hist.png">
 <img src="./img/monthly_price.png">
 
-## Modeling
+## Demand modeling
 <img src="./img/hyperparameter_tuning.png">
 <img src="./img/accuracy_residuals.png">
 <img src="./img/residuals_distribution.png">
 <img src="./img/rmse_distribution.png">
+| RMSE               | Bottles | 
+|--------------------|---------| 
+| Mean               | 779     | 
+| Standard Deviation | 678     | 
+| Median             | 672     | 
 
-## Modeling Results
+## Model interpretation
 <img src="./img/seasonality_betas.png">
 <img src="./img/seasonality.png">
 <img src="./img/price_elasticity_hist.png">
+
+
+
+
+
+
+
 
 
 ## Setting APP_TOKEN Environment Variable
