@@ -64,9 +64,9 @@ Demand modeling
 <img src="./img/residuals_distribution.png">
 <img src="./img/rmse_distribution.png">
 
-RMSE Mean = 779 Bottles
-RMSE Standard Deviation = 678 Bottles
-RMSE Median = 672 Bottles
+* RMSE Mean = 779 Bottles
+* RMSE Standard Deviation = 678 Bottles
+* RMSE Median = 672 Bottles
 
 ## Model interpretation
 <img src="./img/seasonality_betas.png">
