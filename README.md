@@ -82,13 +82,13 @@ Demand modeling
 <img src="./img/seasonality.png">
 <img src="./img/price_elasticity_hist.png">
 
-* PED = % Change in Quantity Demanded / % Change in Price
+PED = % Change in Quantity Demanded / % Change in Price
 
-* Therefore, % Change in Quantity Demanded = PED x % Change in Price
+Therefore, % Change in Quantity Demanded = PED x % Change in Price
 
-* So a +1% change in price will only result in a (-0.02) x 1% = -0.02% change in demand (very inelastic).
+So a +1% change in price will only result in a (-0.02) x 1% = -0.02% change in demand (very inelastic).
 
-* Therefore, it's no wonder Jim Beam has continued to raise prices and stopped offering promotions all together in 2016.
+Therefore, it's no wonder Jim Beam has continued to raise prices and stopped offering promotions all together in 2016.
 
 
 
