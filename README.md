@@ -62,9 +62,19 @@ Price optimization
 ## How have prices for Jim Beam 1750ml varied over time?
 <img src="./img/historical_price.png">
 <img src="./img/price_hist.png">
-<img src="./img/monthly_change_price.png">
+<img src="./img/monthly_price.png">
 
+## Modeling
+<img src="./img/hyperparameter_tuning.png">
+<img src="./img/accuracy_residuals.png">
+<img src="./img/residuals_distribution.png">
+<img src="./img/rmse_distribution.png">
 
+<img src="./img/seasonality_betas.png">
+<img src="./img/seasonality.png">
+<img src="./img/price_elasticity_hist.png">
+
+## Modeling Results
 
 
 ## Setting APP_TOKEN Environment Variable
