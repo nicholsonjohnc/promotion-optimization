@@ -73,6 +73,7 @@ Price optimization
 ## Modeling Results
 <img src="./img/seasonality_betas.png">
 <img src="./img/seasonality.png">
+<img src="./img/monthly_price.png">
 <img src="./img/price_elasticity_hist.png">
 
 
