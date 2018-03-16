@@ -1,5 +1,5 @@
 # Promotion Optimization
-Demand modeling and promotion optimization using Iowa Liquor Sales dataset.
+Demand modeling and promotion optimization using the Iowa Liquor Sales dataset.
 
 ## Research questions
 Exploratory data analysis
@@ -57,6 +57,8 @@ Demand modeling
 <img src="./img/monthly_price.png">
 
 ## Demand modeling
+* Take month (on hot encoded) and log price as features.
+* Take log demand as response.
 <img src="./img/hyperparameter_tuning.png">
 <img src="./img/accuracy_residuals.png">
 <img src="./img/residuals_distribution.png">
