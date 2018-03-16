@@ -70,11 +70,10 @@ Price optimization
 <img src="./img/residuals_distribution.png">
 <img src="./img/rmse_distribution.png">
 
+## Modeling Results
 <img src="./img/seasonality_betas.png">
 <img src="./img/seasonality.png">
 <img src="./img/price_elasticity_hist.png">
-
-## Modeling Results
 
 
 ## Setting APP_TOKEN Environment Variable
