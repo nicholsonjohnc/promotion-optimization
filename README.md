@@ -3,11 +3,15 @@ Demand modeling and promotion optimization using the Iowa Liquor Sales dataset.
 
 ## Research questions
 Exploratory data analysis
+
 * Which Iowa counties consume the most liquor by volume?
+
 * Who are the top 10 vendors in Iowa by sales?
+
 * What are Jim Beam's top selling liquors by sales?
 
 Demand modeling
+
 * Predict weekly sales as a function of price and seasonality (month).
 
 ## Which Iowa counties consume the most liquor by volume?
@@ -59,23 +63,33 @@ Demand modeling
 
 ## Demand modeling
 * Take month (one hot encoded) and log price as features.
+
 * Take log demand as response.
+
 <img src="./img/hyperparameter_tuning.png">
 <img src="./img/accuracy_residuals.png">
 <img src="./img/residuals_distribution.png">
 <img src="./img/rmse_distribution.png">
+
 * RMSE Mean = 779 Bottles
+
 * RMSE Standard Deviation = 678 Bottles
+
 * RMSE Median = 672 Bottles
 
 ## Model interpretation
 <img src="./img/seasonality_betas.png">
 <img src="./img/seasonality.png">
 <img src="./img/price_elasticity_hist.png">
+
 * PED = % Change in Quantity Demanded / % Change in Price
+
 * Therefore, % Change in Quantity Demanded = PED x % Change in Price
+
 * So a +1% change in price will only result in a (-0.02) x 1% = -0.02% change in demand (very inelastic).
+
 * Therefore, it's no wonder Jim Beam has continued to raise prices and stopped offering promotions all together in 2016.
+
 
 
 
