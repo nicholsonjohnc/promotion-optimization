@@ -54,6 +54,7 @@ Demand modeling
 ## How have prices for Jim Beam 1750ml varied over time?
 <img src="./img/historical_price.png">
 <img src="./img/price_hist.png">
+
 <img src="./img/monthly_price.png">
 
 ## Demand modeling
@@ -63,7 +64,6 @@ Demand modeling
 <img src="./img/accuracy_residuals.png">
 <img src="./img/residuals_distribution.png">
 <img src="./img/rmse_distribution.png">
-
 * RMSE Mean = 779 Bottles
 * RMSE Standard Deviation = 678 Bottles
 * RMSE Median = 672 Bottles
@@ -72,7 +72,10 @@ Demand modeling
 <img src="./img/seasonality_betas.png">
 <img src="./img/seasonality.png">
 <img src="./img/price_elasticity_hist.png">
-
+* PED = % Change in Quantity Demanded / % Change in Price
+* Therefore, % Change in Quantity Demanded = PED x % Change in Price
+* So a +1% change in price will only result in a (-0.02) x 1% = -0.02% change in demand (very inelastic).
+* Therefore, it's no wonder Jim Beam has continued to raise prices and stopped offering promotions all together in 2016.
 
 
 
